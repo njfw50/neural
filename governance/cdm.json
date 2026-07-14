@@ -1,0 +1,47 @@
+{
+  "project": "Neural System",
+  "version": "1.1.0",
+  "canonical_protocol_version": "2026-PCEA",
+  "dependencies": {
+    "external": [
+      {
+        "name": "numpy",
+        "version": ">=1.20.0",
+        "purpose": "Numerical operations and data simulation",
+        "canon_reference": "Canon XIX"
+      },
+      {
+        "name": "tensorflow",
+        "version": ">=2.5.0",
+        "purpose": "Neural network architecture and training",
+        "canon_reference": "Canon XIX"
+      }
+    ],
+    "internal_layers": [
+      {
+        "source": "src.ui",
+        "target": "src.application",
+        "status": "AUTHORIZED",
+        "justification": "UI needs Application to execute use cases."
+      },
+      {
+        "source": "src.application",
+        "target": "src.domain",
+        "status": "AUTHORIZED",
+        "justification": "Application orchestrates Domain logic."
+      },
+      {
+        "source": "src.application",
+        "target": "src.infrastructure",
+        "status": "AUTHORIZED",
+        "justification": "Application uses Infrastructure for logging."
+      },
+      {
+        "source": "src.domain",
+        "target": "src.infrastructure",
+        "status": "UNAUTHORIZED",
+        "justification": "Domain must remain pure (Canon X)."
+      }
+    ]
+  }
+}
