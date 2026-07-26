@@ -1,4 +1,4 @@
-# ⚖️ Neural System: Cibersegurança Adaptativa e a Governança Canônica da IA
+# ⚖️ Neural System: Adaptive Cybersecurity and the Canonical Governance of AI
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -6,145 +6,145 @@
 [![Architectural Integrity](https://img.shields.io/badge/Architectural%20Integrity-Enforced-blueviolet.svg)](https://github.com/njfw50/codigo-canonico-engenharia-ai/blob/main/laws/law06_architecture.md)
 [![Cognitive Sovereignty](https://img.shields.io/badge/Cognitive%20Sovereignty-Preserved-orange.svg)](https://github.com/njfw50/codigo-canonico-engenharia-ai/blob/main/laws/law18_cognitive_sovereignty.md)
 
-## 🚀 O Futuro da Cibersegurança e a Engenharia de IA: Uma Visão Estratégica
+## 🚀 The Future of Cybersecurity and AI Engineering: A Strategic Vision
 
-Em um cenário tecnológico onde a velocidade da inovação da Inteligência Artificial frequentemente supera a maturidade da governança, o **Neural System** emerge como um paradigma. Este projeto não é meramente um framework de cibersegurança; é uma **declaração arquitetônica** e um **manifesto operacional** que demonstra como sistemas complexos de IA podem ser construídos, mantidos e evoluídos sob um regime de **governança rigorosa e auditável**.
+In a technological landscape where the pace of Artificial Intelligence innovation often outstrips governance maturity, the **Neural System** emerges as a paradigm. This project is not merely a cybersecurity framework; it is an **architectural statement** and an **operational manifesto** that demonstrates how complex AI systems can be built, maintained, and evolved under a regime of **rigorous and auditable governance**.
 
-Desenvolvido em Python, o Neural System integra módulos de proteção, depuração e autoajuste, impulsionados por aprendizado de máquina. No entanto, seu diferencial estratégico reside na sua conformidade intrínseca com o [**Protocolo Canônico de Engenharia e IA**](https://github.com/njfw50/codigo-canonico-engenharia-ai). Esta adesão garante que cada linha de código, cada decisão arquitetônica e cada interação agêntica seja rastreável, justificável e alinhada a princípios que combatem a "dívida cognitiva" e o "vibe coding" – problemas endêmicos na engenharia de software moderna.
+Developed in Python, the Neural System integrates protection, debugging, and self-tuning modules driven by machine learning. However, its strategic differentiator lies in its intrinsic compliance with the [**Canonical Protocol for Engineering and AI**](https://github.com/njfw50/codigo-canonico-engenharia-ai). This adherence ensures that every line of code, every architectural decision, and every agentic interaction is traceable, justifiable, and aligned with principles that combat "cognitive debt" and "vibe coding" — endemic problems in modern software engineering.
 
-Para empregadores e líderes de tecnologia, o Neural System representa:
+For employers and technology leaders, the Neural System represents:
 
-*   **Maturidade em Governança de Software:** Uma prova de que é possível construir sistemas de IA de ponta com disciplina, clareza e um compromisso inabalável com a integridade arquitetônica.
-*   **Engenharia de Prompt e Agêntica Avançada:** Demonstração prática de como agentes de IA podem colaborar de forma coordenada e auditável, mantendo a soberania cognitiva humana sobre o processo de desenvolvimento.
-*   **Cibersegurança Proativa e Adaptativa:** Um framework que não apenas reage a ameaças, mas aprende, se autoajusta e evolui, garantindo resiliência e proteção contínua em ambientes dinâmicos.
+*   **Maturity in Software Governance:** Proof that it is possible to build cutting-edge AI systems with discipline, clarity, and an unwavering commitment to architectural integrity.
+*   **Advanced Prompt Engineering and Agentic Coordination:** A practical demonstration of how AI agents can collaborate in a coordinated and auditable way while preserving human cognitive sovereignty over the development process.
+*   **Proactive and Adaptive Cybersecurity:** A framework that not only reacts to threats but learns, self-adjusts, and evolves, ensuring resilience and continuous protection in dynamic environments.
 
-Este repositório é um convite para explorar uma abordagem onde a inovação da IA é catalisada pela governança, e a complexidade é gerenciada através de uma **Tecnocracia Estruturada**. É a blueprint para sistemas que não apenas funcionam, mas que são compreensíveis, seguros e sustentáveis a longo prazo, mesmo diante da aceleração agêntica.
-
----
-
-## ✨ Módulos Principais e Intenção Cognitiva
-
-O framework é composto por três módulos principais que trabalham em conjunto para criar um sistema de defesa coeso e inteligente. Cada módulo é projetado com uma intenção cognitiva clara, garantindo que a arquitetura seja compreensível e auditável por agentes de IA e engenheiros humanos, conforme exigido pelo **Canon XVIII (Soberania Cognitiva)**.
-
-1.  **🛡️ `neural_protection.py` (Proteção Neural):**
-    *   **Intenção Cognitiva:** Detectar e neutralizar ameaças cibernéticas em tempo real, protegendo a integridade do sistema. A lógica subjacente visa identificar padrões anômalos em dados de entrada, classificando-os como ameaças potenciais e isolando-os para análise posterior. Este módulo atua como a primeira linha de defesa, garantindo a continuidade operacional e a segurança dos ativos digitais.
-    *   **Funcionalidade:** Utiliza algoritmos de aprendizado de máquina para detectar ameaças e malwares em tempo real. Gerencia uma quarentena para isolar arquivos suspeitos, minimizando o risco de infecção e comprometimento do sistema.
-
-2.  **🐞 `neural_debugger.py` (Depurador Neural):**
-    *   **Intenção Cognitiva:** Fornecer visibilidade profunda sobre o comportamento do sistema e do modelo, permitindo a identificação e resolução de anomalias. O objetivo é transformar a depuração de um processo reativo para um proativo, onde o sistema aprende com erros passados para prever e prevenir futuros. Isso é crucial para manter a integridade arquitetônica e a soberania cognitiva sobre o sistema.
-    *   **Funcionalidade:** Fornece ferramentas avançadas para análise e depuração profunda do comportamento do sistema. Aprende com anomalias passadas para prever e prevenir problemas futuros, melhorando a estabilidade e a resiliência.
-
-3.  **⚙️ `neural_self_adjust.py` (Autoajuste Neural):**
-    *   **Intenção Cognitiva:** Otimizar continuamente o desempenho do sistema e a eficácia do modelo, adaptando-se dinamicamente às condições operacionais. A lógica por trás deste módulo é garantir que o sistema não apenas reaja a eventos, mas também se otimize proativamente, mantendo a eficiência e a resiliência. Isso minimiza a necessidade de intervenção humana constante, permitindo que os engenheiros se concentrem em tarefas de maior nível.
-    *   **Funcionalidade:** Monitora continuamente as métricas de desempenho do sistema (CPU, memória, etc.). Ajusta automaticamente as configurações para garantir um desempenho ideal sem a necessidade de intervenção manual.
+This repository is an invitation to explore an approach where AI innovation is catalyzed by governance, and complexity is managed through a **Structured Technocracy**. It is the blueprint for systems that not only work, but that are understandable, secure, and sustainable over the long term, even in the face of accelerating agentic activity.
 
 ---
 
-## 🚀 Como Funciona (Fluxo de Operação Canônico)
+## ✨ Core Modules and Cognitive Intent
 
-O `neural_system.py` é o orquestrador central que integra e coordena as ações de todos os módulos, operando sob os princípios da **Coordenação Agêntica (Canon XX)**. Ele estabelece um ciclo de feedback contínuo onde o sistema aprende e se adapta ao ambiente, garantindo que as interações entre os módulos sejam padronizadas e otimizadas para eficiência.
+The framework is composed of three main modules that work together to create a cohesive, intelligent defense system. Each module is designed with a clear cognitive intent, ensuring that the architecture is understandable and auditable by AI agents and human engineers, as required by **Canon XVIII (Cognitive Sovereignty)**.
 
-### Fluxo de Operação:
+1.  **🛡️ `neural_protection.py` (Neural Protection):**
+    *   **Cognitive Intent:** Detect and neutralize cyber threats in real time, protecting system integrity. The underlying logic aims to identify anomalous patterns in input data, classify them as potential threats, and isolate them for later analysis. This module acts as the first line of defense, ensuring operational continuity and the security of digital assets.
+    *   **Functionality:** Uses machine learning algorithms to detect threats and malware in real time. Manages a quarantine to isolate suspicious files, minimizing the risk of infection and system compromise.
 
-1.  **Monitoramento Contínuo:** O sistema escaneia arquivos e processos em busca de atividades suspeitas, utilizando protocolos de comunicação padronizados entre os agentes.
-2.  **Detecção e Resposta:** Ao detectar uma ameaça, o módulo de proteção a isola imediatamente, e essa ação é registrada no **Livro da Vida (Canon V)** através de um **Ato de Decisão Agêntica (ADA)**.
-3.  **Análise e Aprendizado:** O depurador analisa a anomalia, e o sistema aprende com o evento. As lições aprendidas são incorporadas para refinar os modelos e as estratégias de defesa.
-4.  **Otimização de Desempenho:** O módulo de autoajuste otimiza os recursos do sistema com base na carga de trabalho atual e no comportamento histórico, garantindo que o sistema opere com máxima eficiência e resiliência.
+2.  **🐞 `neural_debugger.py` (Neural Debugger):**
+    *   **Cognitive Intent:** Provide deep visibility into system and model behavior, enabling the identification and resolution of anomalies. The goal is to transform debugging from a reactive process into a proactive one, where the system learns from past errors to predict and prevent future ones. This is crucial to maintain architectural integrity and cognitive sovereignty over the system.
+    *   **Functionality:** Provides advanced tools for deep analysis and debugging of system behavior. Learns from past anomalies to predict and prevent future problems, improving stability and resilience.
+
+3.  **⚙️ `neural_self_adjust.py` (Neural Self-Adjust):**
+    *   **Cognitive Intent:** Continuously optimize system performance and model efficacy, dynamically adapting to operational conditions. The logic behind this module is to ensure the system not only reacts to events but also proactively optimizes itself, maintaining efficiency and resilience. This minimizes the need for constant human intervention, allowing engineers to focus on higher-level tasks.
+    *   **Functionality:** Continuously monitors system performance metrics (CPU, memory, etc.). Automatically adjusts configurations to ensure optimal performance without manual intervention.
 
 ---
 
-## 🔧 Como Usar (Guia de Início Rápido para Agentes e Engenheiros)
+## 🚀 How It Works (Canonical Operation Flow)
 
-Este guia é projetado para permitir que tanto engenheiros humanos quanto agentes de IA iniciem e interajam com o Neural System de forma eficiente, em conformidade com as diretrizes de **Soberania Cognitiva (Canon XVIII)** e **Coordenação Agêntica (Canon XX)**.
+`neural_system.py` is the central orchestrator that integrates and coordinates the actions of all modules, operating under the principles of **Agentic Coordination (Canon XX)**. It establishes a continuous feedback loop where the system learns and adapts to the environment, ensuring that interactions between modules are standardized and optimized for efficiency.
 
-### Pré-requisitos:
+### Operation Flow:
+
+1.  **Continuous Monitoring:** The system scans files and processes for suspicious activity, using standardized communication protocols between agents.
+2.  **Detection and Response:** Upon detecting a threat, the protection module immediately isolates it, and this action is recorded in the **Book of Life (Canon V)** through an **Agentic Decision Act (ADA)**.
+3.  **Analysis and Learning:** The debugger analyzes the anomaly, and the system learns from the event. Lessons learned are incorporated to refine models and defense strategies.
+4.  **Performance Optimization:** The self-adjust module optimizes system resources based on current workload and historical behavior, ensuring the system operates with maximum efficiency and resilience.
+
+---
+
+## 🔧 How to Use (Quick Start Guide for Agents and Engineers)
+
+This guide is designed to enable both human engineers and AI agents to start and interact with the Neural System efficiently, in compliance with the guidelines of **Cognitive Sovereignty (Canon XVIII)** and **Agentic Coordination (Canon XX)**.
+
+### Prerequisites:
 
 -   Python 3.8+
 -   Git
--   TensorFlow e Keras (instalados via `pip`)
--   `numpy` (instalado via `pip`)
+-   TensorFlow and Keras (installed via `pip`)
+-   `numpy` (installed via `pip`)
 
-### Instalação:
+### Installation:
 
-1.  **Clone o repositório:**
+1.  **Clone the repository:**
     ```bash
     git clone https://github.com/njfw50/neural.git
     cd neural
     ```
 
-2.  **(Opcional) Crie e ative um ambiente virtual:**
+2.  **(Optional) Create and activate a virtual environment:**
     ```bash
     python -m venv venv
-    source venv/bin/activate  # No Windows, use `venv\Scripts\activate`
+    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
     ```
 
-3.  **Instale as dependências:**
+3.  **Install dependencies:**
     ```bash
     pip install tensorflow keras numpy
     ```
-    *   **Anotação Cognitiva (Canon XVIII):** Esta etapa garante que todas as dependências externas sejam explicitamente declaradas e instaladas, evitando referências implícitas e garantindo a **Integridade de Referências (Canon XIX)**. Agentes de IA devem verificar a existência de um `requirements.txt` e, se ausente, gerar um com base nas importações do projeto.
+    *   **Cognitive Annotation (Canon XVIII):** This step ensures that all external dependencies are explicitly declared and installed, avoiding implicit references and ensuring **Integrity of References (Canon XIX)**. AI agents should check for the existence of a `requirements.txt` and, if absent, generate one based on the project's imports.
 
-### Execução:
+### Execution:
 
-Para iniciar o sistema neural completo, execute o script principal:
+To start the full neural system, run the main script:
 
 ```bash
 python neural_system.py
 ```
 
-*   **Anotação Cognitiva (Canon XVIII):** A execução do `neural_system.py` inicializa o orquestrador central, que coordena os módulos de proteção, depuração e autoajuste. Agentes de IA devem entender que este é o ponto de entrada para a operação integrada do sistema, e qualquer modificação no fluxo deve ser justificada e documentada através de um ADA.
+*   **Cognitive Annotation (Canon XVIII):** Running `neural_system.py` initializes the central orchestrator, which coordinates the protection, debugging, and self-adjustment modules. AI agents should understand that this is the entry point for integrated system operation, and any modification to the flow must be justified and documented through an ADA.
 
-Você também pode executar cada módulo de forma independente para tarefas específicas, mas a coordenação via `neural_system.py` é o método canônico para operação integrada.
-
----
-
-## 🤝 Contribuições e Governança Canônica
-
-Este projeto está em desenvolvimento e aceita contribuições. Todas as contribuições devem aderir estritamente ao [Protocolo Canônico de Engenharia e IA](https://github.com/njfw50/codigo-canonico-engenharia-ai), especialmente no que diz respeito à **Procedimento de Mudança (Canon III)**, **Soberania Cognitiva (Canon XVIII)** e **Integridade de Referências (Canon XIX)**.
-
-*   **Para Agentes de IA:** Antes de propor qualquer alteração ou gerar código, os agentes devem realizar uma **Análise Canônica** para garantir a conformidade com os princípios arquitetônicos e de governança. Qualquer decisão que resulte em mudanças estruturais deve ser documentada em um **Ato de Decisão Agêntica (ADA)** e registrada no **Livro da Vida (Canon V)**.
-
-Sinta-se à vontade para abrir uma *issue* ou um *pull request*. Todas as submissões serão revisadas para conformidade canônica.
+You may also run each module independently for specific tasks, but coordination via `neural_system.py` is the canonical method for integrated operation.
 
 ---
 
-## 📜 Referências Canônicas
+## 🤝 Contributions and Canonical Governance
 
-*   [**Protocolo Canônico de Engenharia e IA**](https://github.com/njfw50/codigo-canonico-engenharia-ai)
-    *   **Canon V:** O Livro da Vida (Registro de Auditoria Imutável)
-    *   **Canon XVIII:** A Doutrina da Soberania Cognitiva
-    *   **Canon XIX:** A Doutrina da Integridade de Referências
-    *   **Canon XX:** A Doutrina da Coordenação Agêntica e Otimização de Protocolos
+This project is under development and accepts contributions. All contributions must strictly adhere to the [Canonical Protocol for Engineering and AI](https://github.com/njfw50/codigo-canonico-engenharia-ai), especially regarding the **Change Procedure (Canon III)**, **Cognitive Sovereignty (Canon XVIII)**, and **Integrity of References (Canon XIX)**.
 
----
+*   **For AI Agents:** Before proposing any change or generating code, agents must perform a **Canonical Analysis** to ensure compliance with architectural and governance principles. Any decision that results in structural changes must be documented in an **Agentic Decision Act (ADA)** and recorded in the **Book of Life (Canon V)**.
 
-## ✍️ Autoria
-
-**Manus AI** (com base nas diretrizes de Michel S de Souza)
+Feel free to open an *issue* or a *pull request*. All submissions will be reviewed for canonical compliance.
 
 ---
 
-*Este documento é um artefato de **Anotação Cognitiva Litúrgica** gerado para garantir a continuidade e a soberania cognitiva sobre o Neural System, em conformidade com o Protocolo Canônico de Engenharia e IA.*
+## 📜 Canonical References
+
+*   [**Canonical Protocol for Engineering and AI**](https://github.com/njfw50/codigo-canonico-engenharia-ai)
+    *   **Canon V:** The Book of Life (Immutable Audit Log)
+    *   **Canon XVIII:** The Doctrine of Cognitive Sovereignty
+    *   **Canon XIX:** The Doctrine of Integrity of References
+    *   **Canon XX:** The Doctrine of Agentic Coordination and Protocol Optimization
 
 ---
 
-## 📊 Diferenciais Estratégicos para a Engenharia Moderna
+## ✍️ Authorship
 
-Abaixo, apresentamos como o Neural System resolve desafios críticos na interseção entre IA e Engenharia de Software:
+**Manus AI** (based on the guidelines of Michel S de Souza)
 
-| Desafio | Solução Neural System | Benefício para o Negócio |
+---
+
+*This document is an artifact of **Liturgical Cognitive Annotation** generated to ensure continuity and cognitive sovereignty over the Neural System, in compliance with the Canonical Protocol for Engineering and AI.*
+
+---
+
+## 📊 Strategic Differentiators for Modern Engineering
+
+Below we present how the Neural System addresses critical challenges at the intersection of AI and Software Engineering:
+
+| Challenge | Neural System Solution | Business Benefit |
 | :--- | :--- | :--- |
-| **Dívida Cognitiva** | Implementação do **Canon XVIII**, exigindo anotações litúrgicas para cada bloco de lógica não trivial. | Facilidade de manutenção e redução drástica no tempo de onboarding de novos engenheiros (humanos ou IAs). |
-| **Vibe Coding** | Auditoria canônica rigorosa contra o Canon IX (Proibição de Padrões Ornamentais) e Canon X (Segregação de Camadas). | Código limpo, sem overengineering, focado estritamente nos requisitos de negócio e performance. |
-| **Caos Agêntico** | Uso do **Canon XX** para coordenar múltiplos agentes de IA através de Atos de Decisão Agêntica (ADA). | Escalabilidade do desenvolvimento assistido por IA sem perda de controle arquitetônico ou segurança. |
-| **Opacidade de Referências** | Manutenção de um Manifesto de Dependências Canônicas (**CDM**) conforme o **Canon XIX**. | Rastreabilidade total de impactos e segurança reforçada contra vulnerabilidades em cadeias de suprimentos de software. |
-| **Insegurança de Modelos** | Ciclo de feedback contínuo entre proteção, depuração e autoajuste. | Resiliência operacional e proteção de ativos intelectuais contra ameaças cibernéticas evolutivas. |
+| **Cognitive Debt** | Implementation of **Canon XVIII**, requiring liturgical annotations for every non-trivial block of logic. | Easier maintenance and a drastic reduction in onboarding time for new engineers (human or AI). |
+| **Vibe Coding** | Rigorous canonical auditing against Canon IX (Prohibition of Ornamental Patterns) and Canon X (Layer Segregation). | Clean code, no overengineering, strictly focused on business requirements and performance. |
+| **Agentic Chaos** | Use of **Canon XX** to coordinate multiple AI agents through Agentic Decision Acts (ADA). | Scalability of AI-assisted development without loss of architectural control or security. |
+| **Reference Opacity** | Maintenance of a Canonical Dependency Manifest (**CDM**) per **Canon XIX**. | Full traceability of impacts and strengthened security against supply-chain vulnerabilities. |
+| **Model Insecurity** | Continuous feedback loop between protection, debugging, and self-adjust. | Operational resilience and protection of intellectual assets against evolving cyber threats. |
 
 ---
 
-## 🏗️ Arquitetura Canônica: Segregação de Camadas (Canon X)
+## 🏗️ Canonical Architecture: Layer Segregation (Canon X)
 
-O Neural System é estruturado para garantir que as responsabilidades sejam isoladas, permitindo uma evolução independente e segura de cada componente.
+The Neural System is structured to ensure responsibilities are isolated, allowing each component to evolve independently and safely.
 
 ```mermaid
 graph TD
@@ -173,8 +173,8 @@ graph TD
     Service --> BOL
 ```
 
-**Explicação da Arquitetura:**
-*   **Interface:** Gerencia a interação com o usuário final, isolando a lógica de apresentação.
-*   **Application:** Orquestra os casos de uso, conectando a interface ao domínio e à infraestrutura.
-*   **Domain:** Contém o "Coração do Sistema" – a lógica pura do modelo neural, sem dependências externas.
-*   **Infrastructure:** Fornece suporte técnico, persistência de logs e garante a governança através do CDM e do Livro da Vida.
+**Architecture Explanation:**
+*   **Interface:** Manages interaction with the end user, isolating presentation logic.
+*   **Application:** Orchestrates use cases, connecting the interface to the domain and infrastructure.
+*   **Domain:** Contains the "Heart of the System" — the pure neural model logic, without external dependencies.
+*   **Infrastructure:** Provides technical support, log persistence, and enforces governance through the CDM and the Book of Life.
